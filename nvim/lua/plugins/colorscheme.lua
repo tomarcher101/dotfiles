@@ -5,7 +5,7 @@ return {
       transparent = true,
       style = "darker",
       colors = {
-        fg = "#EDEDED",
+        fg = "#E6EDFB",
       },
     },
   },
