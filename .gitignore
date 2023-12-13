@@ -1,0 +1,4 @@
+*.bak/
+iterm2/
+kitty/
+configstore/
